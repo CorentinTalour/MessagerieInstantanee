@@ -1,0 +1,19 @@
+﻿.div-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    width: 20%;
+    height: 100vh;
+    background-color: #f1f1f1;
+    padding-left: 2rem;
+    border-right: 1px solid black;
+}
+
+.right {
+    width: 80%;
+    height: 100vh;
+    padding-left: 2rem;
+    background-color: #f1f1f1;
+}
