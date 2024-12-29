@@ -8,5 +8,5 @@ public class User
 
 public class Data
 {
-    public string Name { get; set; }
+    public string Nom { get; set; }
 }
